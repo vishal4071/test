@@ -5,4 +5,4 @@ generators:
 images:
   test:
     units:
-      - image: .%eextgen/repo/rpms-image
+      - image: .%eextgen/test/rpms-image
