@@ -1,0 +1,12 @@
+---
+package:
+  - name: repo1
+    upstream-sources:
+      - source-bundle:
+          name: srpm
+          override:
+            version: 1.0.0.0
+    type: srpm
+    build:
+      repo-bundle:
+        - name: el9

@@ -1,0 +1,8 @@
+---
+# yamllint disable rule:line-length
+generators:
+  eextgen: code.arista.io/eos/tools/eextgen%generator
+images:
+  test:
+    units:
+      - image: .%eextgen/repo1/rpms-image
