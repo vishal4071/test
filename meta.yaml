@@ -1,6 +1,6 @@
-reponame: code.arista.i/eos/eext/repo1
-description: repo1 for  EOS and workspacesThis package builds RPMs and SRPMs from
-  the upstreamSRPM using eext.See AID13335 for details about building this.
+reponame: code.arista.i/eos/eext/repo
+description: repo for  EOS and workspacesThis package builds RPMs and SRPMs from the
+  upstreamSRPM using eext.See AID13335 for details about building this.
 users:
   maintainers:
     - you@arista.com

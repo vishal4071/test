@@ -1,6 +1,6 @@
 ---
 package:
-  - name: repo1
+  - name: repo
     upstream-sources:
       - source-bundle:
           name: srpm
